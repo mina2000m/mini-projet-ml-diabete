@@ -1,6 +1,6 @@
 # Mini Projet Machine Learning – CISI4C
 
-## étudiants
+## étudiant
 
 - Amina Nagaz
 
